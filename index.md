@@ -1,88 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hyunchol Jun's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hyunchol Jun
+
+Full-Stack Web Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:hyunchol.jun@gmail.com">hyunchol.jun@gmail.com</a>
+| <a href="tel:+1 (782)234-1899">+1 (782)234-1899</a>
+| <a href="https://www.linkedin.com/in/hyunchol-jun/">linkedin.com/in/hyunchol-jun/</a>
+| <a href="https://github.com/hyunchol-jun">github.com/hyunchol-jun</a>
+| Toronto, ON (Remote / Open to Relocation)
 </div>
 
+As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft maintenance, I am passionate about making a positive difference in the world through programming.
 
-## Currently
+## Technical Skills
 
-Standing on the shoulders of giants
+- **Languages**: HTML, CSS, JavaScript, TypeScript, C++, Java, Python, Shell script, Markdown
+- **Web Development**: React, Node, Express, Gatsby, Jekyll, Sass, Styled-Components, OAuth, REST APIs
+- **Database**: MySQL, Oracle, Knex.js
+- **Tesing & Others**: Jest, Git, GitHub, Agile, Regex, Webpack, JIRA, Vim
 
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Personal Projects
 
+### BetterEat
+[https://better-eat.hyuncholjun.com](http://better-eat.hyuncholjun.com)
+BetterEat is a full-stack web application that helps users to search & store recipes based on their food preferences and manage inventory & grocery lists
 
-### Research interests
+**Features**
+- Search recipes
+- Store recipes
+- Grocery list
+- Inventory list
+- Authentication
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Tech Stack**
+React, React-router, Sass, Express, MySQL, Knex.js, JWT, Bcrypt
 
+Project Links
+    - Front-End: [https://github.com/hyunchol-jun/better-eat-client](https://github.com/hyunchol-jun/better-eat-client)
+    - Back-End: [https://github.com/hyunchol-jun/better-eat-server](https://github.com/hyunchol-jun/better-eat-server)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2022`
+__Full-stack Web Development Bootcamp | BrainStation__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Toronto, Canada
 
-- Sizar
+`Jun 2019`
+__Diploma, Aircraft Maintenance Engineer | Nova Scotia Community College (NSCC)__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Halifax, Canada
 
-- Fellow
+`Mar 2014`
+__Bachelor of Science in Electrical & Electronic Engineering | Hongik University__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Seoul, Korea
+- Developed an Android mobile application for the university that resulted in 10,000+ downloads
 
 
+## Certifications
 
-## Publications
+`Jul 2014`
+__Oracle Database 10g Administrator Certified Professional (OCP)__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`May 2014`
+__Oracle Certified Professional, Java SE 6 Programmer__
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`Nov 2019 - May 2020`
+__Aircraft Maintenance Engineer - Apprentice | Jazz Aviation LP__
 
-- Warden
-- Minted coins
+- Collaborated with team leader and other members to ensure 100% task completion with no delays.
+- Communicated effectively with team leader and other members to coordinate tasks and avoid potential conflicts.
+- Successfully increased data integrity in the task management system by accurately documenting the task and reporting discrepancy.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`Jul 2013 - Jun 2014`
+__Sales Operation | Oracle Korea__
+- Collaborated with the sales and operation team to discover potential business growth opportunities and support existing customers, resulting in a 5% increase in customer satisfaction. 
+- Organized the preparation of an annual government evaluation, which required organization-wide cooperation and resulted in obtaining top score of ‘AA’.
 
 <!-- ### Footer
 
