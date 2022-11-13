@@ -24,84 +24,12 @@
     font-style: italic;
 }
 
-@font-face {
-    font-family: Albert-Sans;
-    src: url(../assets/fonts/AlbertSans-Black.ttf);
-    font-weight: 900;
-}
-
-@font-face {
-    font-family: Albert-Sans;
-    src: url(../assets/fonts/AlbertSans-BlackItalic.ttf);
-    font-weight: 900;
-    font-style: italic;
-}
-
 *, *::before, *::after {
     box-sizing: border-box;
 }
 
 body {
     font-family: Albert-Sans;
-}
-
-body, h1, h2, p {
     margin: 0;
     padding: 0;
-}
-
-h1 {
-    font-weight: 900;
-    font-size: 2.5rem;
-    text-align: center;
-    margin: 2rem 0 0.5rem;
-}
-
-h1+p {
-    font-size: 150%;
-    text-align: center;
-}
-
-.container {
-    display: flex;
-    justify-content: space-between;
-    gap: 1rem;
-    width: 100%;
-    margin: 1rem 0;
-}
-
-.sub-container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 50%;
-}
-
-h2 {
-    margin: 2rem 0 1rem;
-}
-
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
-    gap: 1rem;
-}
-
-.skill-container {
-    display: flex;
-    gap: 1rem;
-}
-
-.category {
-    width: 25%;
-    font-weight: 700;
-    flex-shrink: 0;
-}
-
-.skills {
-
-}
-
-h3 {
-    margin: 1rem 0;
 }
