@@ -17,7 +17,7 @@ As a recent Web Development bootcamp graduate with a background in Electrical En
 ## Technical Skills
 
 Languages
-: HTML, CSS, JavaScript, TypeScript, C++, Java, Python, Shell script, Markdown
+: HTML, CSS, JavaScript, TypeScript, C++, Java, Python, Shell scripts, Markdown, Lua
 
 Web Development
 : React, Node, Express, Gatsby, Jekyll, Sass, Styled-Components, OAuth, REST APIs
@@ -31,33 +31,40 @@ Testing & Others
 
 ## Personal Projects
 
-### BetterEat [https://better-eat.hyuncholjun.com](http://better-eat.hyuncholjun.com)
+### BetterEat 
 BetterEat is a full-stack web application that helps users to search & store recipes based on their food preferences and manage inventory & grocery lists.
 
 #### Features
 Search Recipes
-: 
+: Makes external API calls to get recipe data through the back-end server to protect the API key in the server's environment variable.
 
 Store Recipes
-: 
+: Stores recipe data to the corresponding user in the database using a Many-to-Many relationship.
 
 Grocery List
-: 
+: Saves grocery items to the user in the database. Also checks for duplicate entries utilizing MySQL's unique constraint feature.
 
-Inventory List
-: 
+React Features
+: Utilizes various React Hooks to make the application performant, including useRef, useMemo, useContext, useReducer.
+
+Server Structure
+: Implements the MVC design pattern in the Express.js server to increase readability and to make future changes easy.
 
 Authentication
-: 
+: Only stores a salted hash of the password to the database using the Bcrypt library to keep the passwords secure.
 
 #### Tech Stack
 React, React-router, Sass, Express, MySQL, Knex.js, JWT, Bcrypt
 
 #### Project Links
-Front-End
+
+Live website
+: [https://better-eat.hyuncholjun.com](http://better-eat.hyuncholjun.com)
+
+Front-End repo
 : [https://github.com/hyunchol-jun/better-eat-client](https://github.com/hyunchol-jun/better-eat-client)
 
-Back-End
+Back-End repo
 : [https://github.com/hyunchol-jun/better-eat-server](https://github.com/hyunchol-jun/better-eat-server)
 
 
@@ -109,5 +116,3 @@ Oracle Korea
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
