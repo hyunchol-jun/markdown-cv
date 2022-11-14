@@ -32,19 +32,19 @@ Testing & Others
 ## Personal Projects
 
 ### BetterEat [https://better-eat.hyuncholjun.com](http://better-eat.hyuncholjun.com)
-BetterEat is a full-stack web application that helps users to search & store recipes based on their food preferences and manage inventory & grocery lists
+BetterEat is a full-stack web application that helps users to search & store recipes based on their food preferences and manage inventory & grocery lists.
 
 #### Features
-Search recipes
+Search Recipes
 : 
 
-Store recipes
+Store Recipes
 : 
 
-Grocery list
+Grocery List
 : 
 
-Inventory list
+Inventory List
 : 
 
 Authentication
@@ -82,28 +82,29 @@ Seoul, Korea
 
 ## Certifications
 
-`Jul 2014`
 Oracle Database 10g Administrator Certified Professional (OCP)
+`Jul 2014`
 
-`May 2014`
 Oracle Certified Professional, Java SE 6 Programmer
+`May 2014`
 
 
 ## Experience
 
-`Nov 2019 - May 2020`
 Aircraft Maintenance Engineer - Apprentice
 Jazz Aviation LP
+`Nov 2019 - May 2020`
 
 - Collaborated with team leader and other members to ensure 100% task completion with no delays.
-- Communicated effectively with team leader and other members to coordinate tasks and avoid potential conflicts.
-- Successfully increased data integrity in the task management system by accurately documenting the task and reporting discrepancy.
+- Communicated effectively with the team leader and other members to coordinate tasks and avoid potential conflicts.
+- Successfully increased data integrity in the task management system by accurately documenting the task and reporting discrepancies.
 
-`Jul 2013 - Jun 2014`
 Sales Operation
 Oracle Korea
+`Jul 2013 - Jun 2014`
+
 - Collaborated with the sales and operation team to discover potential business growth opportunities and support existing customers, resulting in a 5% increase in customer satisfaction. 
-- Organized the preparation of an annual government evaluation, which required organization-wide cooperation and resulted in obtaining top score of ‘AA’.
+- Organized the preparation of an annual government evaluation, which required organization-wide cooperation and resulted in obtaining a top score of 'AA.'
 
 <!-- ### Footer
 
