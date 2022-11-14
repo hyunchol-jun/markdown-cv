@@ -6,13 +6,13 @@ title: Hyunchol Jun's CV
 
 Full-Stack Web Developer
 
----
-
-As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft maintenance, I am passionate about making a positive difference in the world through programming.
-
 | Toronto, ON (Remote / Open to Relocation) | [linkedin.com/in/hyunchol-jun/](https://www.linkedin.com/in/hyunchol-jun/) |
 | hyunchol.jun@gmail.com | [github.com/hyunchol-jun](https://github.com/hyunchol-jun) |
 | +1 (782)234-1899 |
+
+---
+
+As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft maintenance, I am passionate about making a positive difference in the world through programming.
 
 ## Technical Skills
 
@@ -51,7 +51,7 @@ Server Structure
 : Implements the MVC design pattern in the Express.js server to increase readability and to make future changes easy.
 
 Authentication
-: Only stores a salted hash of the password to the database using the Bcrypt library to keep the passwords secure.
+: Implements login with JWT and only stores a salted hash of the password to the database using the Bcrypt library to keep the passwords secure.
 
 #### Tech Stack
 React, React-router, Sass, Express, MySQL, Knex.js, JWT, Bcrypt

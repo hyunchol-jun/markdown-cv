@@ -33,3 +33,40 @@ body {
     margin: 0;
     padding: 0;
 }
+
+h1 {
+    display: inline-block;
+}
+
+h1+p {
+    display: inline-block;
+    font-size: 150%;
+    text-align: right;
+    float: right;
+}
+
+p {
+    line-height: 1.5rem;
+}
+
+table {
+    width: 100%;
+}
+
+code {
+    float: right;
+}
+
+dl {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    gap: 0.5rem;
+}
+
+dt {
+    font-weight: 700;
+}
+
+dd {
+    margin: 0;
+}
