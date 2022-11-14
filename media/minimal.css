@@ -35,18 +35,29 @@ body {
 }
 
 h1 {
-    display: inline-block;
+    margin: 0;
 }
 
 h1+p {
-    display: inline-block;
     font-size: 150%;
-    text-align: right;
-    float: right;
+    margin-top: 0.25rem;
+}
+
+h2 {
+    margin: 0.75rem 0;
+}
+
+h3 {
+    margin: 0.5rem 0;
+}
+
+h4 {
+    margin: 0.75rem 0 0.25rem;
 }
 
 p {
     line-height: 1.5rem;
+    margin: 0.25rem 0;
 }
 
 table {
@@ -59,8 +70,9 @@ code {
 
 dl {
     display: grid;
-    grid-template-columns: 1fr 4fr;
-    gap: 0.5rem;
+    grid-template-columns: 1fr 3fr;
+    gap: 0.25rem;
+    margin: 0.5rem 0;
 }
 
 dt {
@@ -69,4 +81,17 @@ dt {
 
 dd {
     margin: 0;
+}
+
+ul {
+    margin: 0.5rem 0;
+}
+
+#technical-skills+dl {
+    grid-template-columns: 1fr 3fr 1fr 3fr;
+}
+
+/* For prints */
+body {
+    font-size: 12pt;
 }

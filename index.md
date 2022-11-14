@@ -31,10 +31,10 @@ Testing & Others
 
 ## Personal Projects
 
-### BetterEat 
+### BetterEat - [https://better-eat.hyuncholjun.com](http://better-eat.hyuncholjun.com)
 BetterEat is a full-stack web application that helps users to search & store recipes based on their food preferences and manage inventory & grocery lists.
 
-#### Features
+#### Highlights
 Search Recipes
 : Makes external API calls to get recipe data through the back-end server to protect the API key in the server's environment variable.
 
@@ -54,36 +54,33 @@ Authentication
 : Implements login with JWT and only stores a salted hash of the password to the database using the Bcrypt library to keep the passwords secure.
 
 #### Tech Stack
-React, React-router, Sass, Express, MySQL, Knex.js, JWT, Bcrypt
+React, React-router, Sass, Express, MySQL, Knex.js, JWT, Netlify, Heroku
 
-#### Project Links
+#### Project Links 
 
-Live website
-: [https://better-eat.hyuncholjun.com](http://better-eat.hyuncholjun.com)
-
-Front-End repo
+Front-End repository
 : [https://github.com/hyunchol-jun/better-eat-client](https://github.com/hyunchol-jun/better-eat-client)
 
-Back-End repo
+Back-End repository
 : [https://github.com/hyunchol-jun/better-eat-server](https://github.com/hyunchol-jun/better-eat-server)
 
 
 ## Education
 
-Full-stack Web Development Bootcamp
-BrainStation
+### Full-stack Web Development Bootcamp
+#### BrainStation
 `Sep 2022`
-Toronto, Canada
+*Toronto, Canada*
 
-Diploma, Aircraft Maintenance Engineer
-Nova Scotia Community College (NSCC)
+### Diploma, Aircraft Maintenance Engineer
+#### Nova Scotia Community College (NSCC)
 `Jun 2019`
-Halifax, Canada
+*Halifax, Canada*
 
-Bachelor of Science in Electrical & Electronic Engineering
-Hongik University
+### Bachelor of Science in Electrical & Electronic Engineering
+#### Hongik University
 `Mar 2014`
-Seoul, Korea
+*Seoul, Korea*
 - Developed an Android mobile application for the university that resulted in 10,000+ downloads
 
 
@@ -98,17 +95,19 @@ Oracle Certified Professional, Java SE 6 Programmer
 
 ## Experience
 
-Aircraft Maintenance Engineer - Apprentice
-Jazz Aviation LP
+### Aircraft Maintenance Engineer - Apprentice
+#### Jazz Aviation LP
 `Nov 2019 - May 2020`
+*Halifax, Canada*
 
 - Collaborated with team leader and other members to ensure 100% task completion with no delays.
 - Communicated effectively with the team leader and other members to coordinate tasks and avoid potential conflicts.
 - Successfully increased data integrity in the task management system by accurately documenting the task and reporting discrepancies.
 
-Sales Operation
-Oracle Korea
+### Sales Operation
+#### Oracle Korea
 `Jul 2013 - Jun 2014`
+*Seoul, Korea*
 
 - Collaborated with the sales and operation team to discover potential business growth opportunities and support existing customers, resulting in a 5% increase in customer satisfaction. 
 - Organized the preparation of an annual government evaluation, which required organization-wide cooperation and resulted in obtaining a top score of 'AA.'
