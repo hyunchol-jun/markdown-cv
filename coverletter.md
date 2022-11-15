@@ -1,0 +1,51 @@
+---
+layout: cv
+title: Hyunchol Jun's Cover Letter
+---
+# Hyunchol(Chol) Jun
+
+Full-Stack Web Developer
+
+| Toronto, ON (Remote / Open to Relocation) | [linkedin.com/in/hyunchol-jun/](https://www.linkedin.com/in/hyunchol-jun/) |
+| hyunchol.jun@gmail.com | [github.com/hyunchol-jun](https://github.com/hyunchol-jun) |
+| +1 (782)234-1899 |
+
+---
+\
+\
+Date: Nov 15th, 2022
+\
+\
+\
+Re: Full-Time Position - Junior Front-End Developer
+\
+\
+\
+Dear Hiring Manager,
+\
+\
+\
+As a passionate web developer, I am excited to apply for the Python Backend Engineer at Appnovation. 
+With self-teaching various programming languages such as C++, Java, and Python and a background in Engineering, I have a strong understanding of algorithms and data structures as well as Command Line Tools. 
+Combined with the recent web development skills I gained in the bootcamp at BrainStation, such as HTML, CSS, JavaScript, React and Node.js, I have the skills to help Appnovation succeed.
+\
+\
+In my previous position at Oracle Korea, I was fortunate to pursue and achieve OCP(Oracle 10g Certified Professional) and OCJP(Oracle Certified Java SE 6 Programmer), which gave me a solid understanding of RDBMS, as well as Java programming.
+\
+\
+During my study in Electrical Engineering at university, I self-taught Android mobile application development and created an app for students to provide helpful information about the campus, which resulted in more than 10,000 downloads in the Google Play store.
+\
+\
+I also have a background in Aircraft maintenance working on passenger airplanes. 
+I learned how to work on an isolated part of a vast system so that many people can work together and inspect and troubleshoot problems. 
+The skills I gained can be transferred into software engineering and will help me in this position.
+\
+\
+I am flexible and willing to take on other positions that may better fit my qualifications.
+Thank you for taking the time to review my qualifications. 
+\
+\
+\
+Sincerely, 
+\
+Hyunchol Jun
