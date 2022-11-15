@@ -12,7 +12,7 @@ Full-Stack Web Developer
 
 ---
 
-As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft maintenance, I am passionate about making a positive difference in the world through programming.
+As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft Maintenance, I am passionate about making a positive difference in the world through programming.
 
 ## Technical Skills
 
@@ -68,35 +68,26 @@ Back-End repository
 ## Education
 
 ### Full-stack Web Development Bootcamp
-#### BrainStation
+**BrainStation**
 `Sep 2022`
 *Toronto, Canada*
 
 ### Diploma, Aircraft Maintenance Engineer
-#### Nova Scotia Community College (NSCC)
+**Nova Scotia Community College (NSCC)**
 `Jun 2019`
 *Halifax, Canada*
 
 ### Bachelor of Science in Electrical & Electronic Engineering
-#### Hongik University
+**Hongik University**
 `Mar 2014`
 *Seoul, Korea*
 - Developed an Android mobile application for the university that resulted in 10,000+ downloads
 
 
-## Certifications
-
-Oracle Database 10g Administrator Certified Professional (OCP)
-`Jul 2014`
-
-Oracle Certified Professional, Java SE 6 Programmer
-`May 2014`
-
-
 ## Experience
 
 ### Aircraft Maintenance Engineer - Apprentice
-#### Jazz Aviation LP
+**Jazz Aviation LP**
 `Nov 2019 - May 2020`
 *Halifax, Canada*
 
@@ -105,12 +96,21 @@ Oracle Certified Professional, Java SE 6 Programmer
 - Successfully increased data integrity in the task management system by accurately documenting the task and reporting discrepancies.
 
 ### Sales Operation
-#### Oracle Korea
+**Oracle**
 `Jul 2013 - Jun 2014`
 *Seoul, Korea*
 
 - Collaborated with the sales and operation team to discover potential business growth opportunities and support existing customers, resulting in a 5% increase in customer satisfaction. 
 - Organized the preparation of an annual government evaluation, which required organization-wide cooperation and resulted in obtaining a top score of 'AA.'
+
+
+## Certifications
+
+**Oracle Database 10g Administrator Certified Professional (OCP)**
+`Jul 2014`
+
+**Oracle Certified Professional, Java SE 6 Programmer**
+`May 2014`
 
 <!-- ### Footer
 

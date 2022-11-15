@@ -36,19 +36,21 @@ body {
 
 h1 {
     margin: 0;
+    text-transform: uppercase;
 }
 
 h1+p {
-    font-size: 150%;
-    margin-top: 0.25rem;
+    font-size: 125%;
+    margin-bottom: 0.5rem;
 }
 
 h2 {
-    margin: 0.75rem 0;
+    margin: 1.25rem 0 0.5rem;
+    text-transform: uppercase;
 }
 
 h3 {
-    margin: 0.5rem 0;
+    margin: 1rem 0 0;
 }
 
 h4 {
@@ -56,7 +58,7 @@ h4 {
 }
 
 p {
-    line-height: 1.5rem;
+    line-height: 1.25rem;
     margin: 0.25rem 0;
 }
 
@@ -81,17 +83,17 @@ dt {
 
 dd {
     margin: 0;
+    line-height: 1.25rem;
 }
 
 ul {
     margin: 0.5rem 0;
 }
 
-#technical-skills+dl {
-    grid-template-columns: 1fr 3fr 1fr 3fr;
+li {
+    line-height: 125%;
 }
 
-/* For prints */
-body {
-    font-size: 12pt;
+#technical-skills+dl {
+    grid-template-columns: 1fr 3fr 1fr 3fr;
 }
