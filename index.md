@@ -26,7 +26,7 @@ Database
 : MySQL, Oracle, Knex.js
 
 Testing & Others
-: Jest, Git, GitHub, Agile, Regex, Webpack, JIRA, Vim
+: Jest, Git, GitHub, Agile, Regex, Webpack, JIRA, Vim, CLI Tools
 
 
 ## Personal Projects
