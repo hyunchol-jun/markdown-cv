@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Hyunchol Jun's CV
+title: Hyunchol_Jun_Resume
 ---
 # Hyunchol(Chol) Jun
 
@@ -15,19 +15,13 @@ Full-Stack Web Developer
 As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft Maintenance, I am passionate about making a positive difference in the world through programming.
 
 ## Technical Skills
-
-Languages
-: HTML, CSS, JavaScript, TypeScript, C++, Java, Python, Shell scripts, Markdown, Lua
-
-Web Development
-: React, Node, Express, Gatsby, Jekyll, Sass, Styled-Components, OAuth, REST APIs
-
-Database
-: MySQL, Oracle, Knex.js
-
-Testing & Others
-: Jest, Git, GitHub, Agile, Regex, Webpack, JIRA, Vim, CLI Tools
-
+{% for group in site.data.cv.skills %}
+{{ group.category }}
+: 
+    {% for value in group.values -%} 
+        {{ value }}{% unless forloop.last %}, {% endunless -%}
+    {% endfor %}
+{% endfor %}
 
 ## Personal Projects
 
@@ -67,51 +61,36 @@ Back-End repository
 
 ## Education
 
-### Full-stack Web Development Bootcamp
-**BrainStation**
-`Sep 2022`
-*Toronto, Canada*
-
-### Diploma, Aircraft Maintenance Engineer
-**Nova Scotia Community College (NSCC)**
-`Jun 2019`
-*Halifax, Canada*
-
-### Bachelor of Science in Electrical & Electronic Engineering
-**Hongik University**
-`Mar 2014`
-*Seoul, Korea*
-- Developed an Android mobile application for the university that resulted in 10,000+ downloads
+{% for education in site.data.cv.educations -%}
+### {{ education.degree }}
+**{{ education.school }}**
+`{{ education.endDate }}`
+*{{ education.location }}*
+{% for description in education.descriptions -%}
+- {{ description }}
+{% endfor %}
+{% endfor %}
 
 
-## Experience
+## Experiences
 
-### Aircraft Maintenance Engineer - Apprentice
-**Jazz Aviation LP**
-`Nov 2019 - May 2020`
-*Halifax, Canada*
-
-- Collaborated with team leader and other members to ensure 100% task completion with no delays.
-- Communicated effectively with the team leader and other members to coordinate tasks and avoid potential conflicts.
-- Successfully increased data integrity in the task management system by accurately documenting the task and reporting discrepancies.
-
-### Sales Operation
-**Oracle**
-`Jul 2013 - Jun 2014`
-*Seoul, Korea*
-
-- Collaborated with the sales and operation team to discover potential business growth opportunities and support existing customers, resulting in a 5% increase in customer satisfaction. 
-- Organized the preparation of an annual government evaluation, which required organization-wide cooperation and resulted in obtaining a top score of 'AA.'
-
+{% for experience in site.data.cv.experiences -%}
+### {{ experience.role }}
+**{{ experience.company }}**
+`{{ experience.startDate }} - {{ experience.endDate }}`
+*{{ experience.location }}*
+{% for description in experience.descriptions -%}
+- {{ description }}
+{% endfor %}
+{% endfor %}
 
 ## Certifications
 
-**Oracle Database 10g Administrator Certified Professional (OCP)**
-`Jul 2014`
+{% for certification in site.data.cv.certifications -%}
+**{{ certification.name }}**
+`{{ certification.date }}`
 
-**Oracle Certified Professional, Java SE 6 Programmer**
-`May 2014`
-
+{% endfor %}
 <!-- ### Footer
 
 Last updated: May 2013 -->

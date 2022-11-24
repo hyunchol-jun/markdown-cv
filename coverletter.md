@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Hyunchol Jun's Cover Letter
-company: Twitter
-position: Junior Front-End Developer
-
+title: Hyunchol_Jun_Cover_Letter
+company: The Citco Group Limited
+position: Full Stack Developer
 ---
 # Hyunchol(Chol) Jun
 
@@ -28,7 +27,7 @@ Dear Hiring Manager,
 \
 \
 \
-As a passionate web developer, I am excited to apply for the {{ page.position }} at {{ page.company }}. 
+As a passionate web developer, I am excited to apply for the {{ page.position }} position at {{ page.company }}. 
 With self-teaching various programming languages such as C++, Java, and Python and a background in Engineering, I have a strong understanding of algorithms and data structures as well as Command Line Tools. 
 Combined with the recent web development skills I gained in the bootcamp at BrainStation, such as HTML, CSS, JavaScript, React and Node.js, I am confident that I have the skills to help {{ page.company }} succeed.
 \

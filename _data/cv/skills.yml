@@ -1,0 +1,11 @@
+- category: Languages 
+  values: [HTML, CSS, JavaScript, TypeScript, C++, Java, Python, Shell scripts, Markdown, Lua]
+
+- category: Web Development
+  values: [React, Node, Express, Gatsby, Jekyll, Sass, Styled-Components, OAuth, REST APIs, GraphQL]
+
+- category: Database
+  values: [MySQL, Oracle, Knex.js]
+
+- category: Testing & Others
+  values: [Jest, Git, GitHub, Agile, Regex, Webpack, Vim, JSON, YAML]

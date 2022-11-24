@@ -1,0 +1,19 @@
+- degree: Full-stack Web Development Bootcamp
+  school: BrainStation
+  startDate:
+  endDate: Sep 2022
+  location: Toronto, Canada
+
+- degree: Diploma, Aircraft Maintenance Engineer
+  school: Nova Scotia Community College (NSCC)
+  startDate: 
+  endDate: Jun 2019
+  location: Halifax, Canada
+
+- degree: Bachelor of Science in Electrical & Electronic Engineering
+  school: Hongik University
+  startDate:
+  endDate: Mar 2014
+  location: Seoul, Korea
+  descriptions:
+    - Developed an Android mobile application for the university that resulted in 10,000+ downloads
