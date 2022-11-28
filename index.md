@@ -2,15 +2,8 @@
 layout: cv
 title: Hyunchol_Jun_Resume
 ---
-# Hyunchol(Chol) Jun
 
-Full-Stack Web Developer
-
-| Toronto, ON (Remote / Open to Relocation) | [linkedin.com/in/hyunchol-jun/](https://www.linkedin.com/in/hyunchol-jun/) |
-| hyunchol.jun@gmail.com | [github.com/hyunchol-jun](https://github.com/hyunchol-jun) |
-| +1 (782)234-1899 |
-
----
+{% include_relative cv_header.md %}
 
 As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft Maintenance, I am passionate about making a positive difference in the world through programming.
 

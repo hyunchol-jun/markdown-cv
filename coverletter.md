@@ -1,18 +1,11 @@
 ---
 layout: cv
 title: Hyunchol_Jun_Cover_Letter
-company: The Citco Group Limited
-position: Full Stack Developer
+company: Infosys
+position: ReactJS Developer
 ---
-# Hyunchol(Chol) Jun
 
-Full-Stack Web Developer
-
-| Toronto, ON (Remote / Open to Relocation) | [linkedin.com/in/hyunchol-jun/](https://www.linkedin.com/in/hyunchol-jun/) |
-| hyunchol.jun@gmail.com | [github.com/hyunchol-jun](https://github.com/hyunchol-jun) |
-| +1 (782)234-1899 |
-
----
+{% include_relative cv_header.md %}
 \
 \
 Date: {{ site.time | date: '%b %d, %Y' }}
