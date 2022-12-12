@@ -1,8 +1,8 @@
 ---
 layout: cv
 title: Hyunchol_Jun_Cover_Letter
-company: Infosys
-position: ReactJS Developer
+company: P&P Optica
+position: Full Stack Software Developer
 ---
 
 {% include_relative cv_header.md %}

@@ -5,7 +5,9 @@ title: Hyunchol_Jun_Resume
 
 {% include_relative cv_header.md %}
 
-As a recent Web Development bootcamp graduate with a background in Electrical Engineering and Aircraft Maintenance, I am passionate about making a positive difference in the world through programming.
+I am a passionate web developer who graduated recently from a Web Dev bootcamp with a background in Electrical Engineering and Aircraft Maintenance. 
+I have been coding as a hobby since University, where I self-taught and created Android apps. 
+At my previous position at Oracle, I acquired a good understanding of databases and a DBA certificate (OCP 10g.)
 
 ## Technical Skills
 {% for group in site.data.cv.skills %}

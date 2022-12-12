@@ -1,6 +1,3 @@
----
----
-
 # {{ site.name }}
 
 {{ site.job_title }}
