@@ -107,3 +107,8 @@ li {
 #technical-skills+dl {
     grid-template-columns: 1fr 3fr 1fr 3fr;
 }
+
+hr {
+    margin: 0.125rem 0;
+}
+
