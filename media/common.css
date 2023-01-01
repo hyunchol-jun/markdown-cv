@@ -1,0 +1,103 @@
+@font-face {
+  font-family: Albert-Sans;
+  src: url(../assets/fonts/AlbertSans-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Albert-Sans;
+  src: url(../assets/fonts/AlbertSans-Italic.ttf);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Albert-Sans;
+  src: url(../assets/fonts/AlbertSans-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Albert-Sans;
+  src: url(../assets/fonts/AlbertSans-BoldItalic.ttf);
+  font-weight: 700;
+  font-style: italic;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Albert-Sans;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  margin: 1rem 0 0.25rem;
+  text-transform: uppercase;
+  font-size: 115%;
+  font-weight: 700;
+}
+
+h3 {
+  margin: 1rem 0 0;
+}
+
+h2 + h3 {
+  margin-top: 0.25rem;
+}
+
+h4 {
+  margin: 1rem 0 0.25rem;
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 100%;
+  margin: 0.25rem 0;
+}
+
+a {
+  color: inherit;
+}
+
+table {
+  width: 100%;
+  font-weight: 700;
+}
+
+code {
+  float: right;
+}
+
+dl {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 0.4rem;
+  margin: 0.5rem 0;
+}
+
+dt {
+  font-weight: 700;
+}
+
+dd {
+  margin: 0;
+  line-height: 1.25rem;
+}
+
+ul {
+  margin: 0.5rem 0;
+}
+
+li {
+  line-height: 125%;
+}

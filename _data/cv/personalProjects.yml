@@ -1,8 +1,8 @@
 - name: BetterEat
   url: https://better-eat.hyuncholjun.com
   description: BetterEat is a full-stack web application that helps users to search for & store recipes based on their food preferences. It also manages inventory & grocery lists in a smart way.
-  highlights: 
-    - title: Search For/Store Recipes
+  highlights:
+    - title: Search For / Store Recipes
       content: Makes external API calls to get recipes data, and stores in database table connecting to user with Many-To-Many relationship.
     - title: Grocery List
       content: Saves grocery items to the user in the database. Also checks for duplicate entries utilizing MySQL's unique constraint feature.
